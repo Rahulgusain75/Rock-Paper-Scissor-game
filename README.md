@@ -1,7 +1,27 @@
-# About
-- Rock paper scissors is an intransitive hand game, usually played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand.
-These shapes are "rock", "paper", and "scissors". 
-# Gameplay
-- The players may start by counting to three aloud, or by speaking the name of the game (e.g. "Rock! Paper! Scissors!"), raising one hand in a fist and swinging it down with each syllable onto their other hand (or in a less common variant, holding it behind their back).
-They then "throw" or "shoot" by extending their selected sign towards their opponent on what would have been the fourth count, often saying the word "shoot" while doing so.
+# ✊✋✌️ Rock Paper Scissors Game
+
+A fun and interactive **Rock Paper Scissors** game built using **HTML**, **CSS**, and **JavaScript**. Play against the computer, track your score, and enjoy a clean responsive design.
+
+---
+
+## 🎮 How to Play
+
+- Choose **Rock**, **Paper**, or **Scissors** by clicking the button.
+- The computer randomly picks its choice.
+- The winner is determined by the classic rules:
+  - Rock beats Scissors
+  - Scissors beats Paper
+  - Paper beats Rock
+- Scores are updated after each round.
+
+---
+
+## 🛠️ Tech Stack
+
+- **HTML5** – Structure
+- **CSS3** – Styling and layout
+- **JavaScript (ES6)** – Game logic and interactivity
+
+---
+
 
